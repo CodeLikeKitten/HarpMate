@@ -1,0 +1,39 @@
+{
+  "title": "Summertime",
+  "artist": "George Gershwin",
+  "album": "Unknown",
+  "year": -1,
+  ""
+  "harp_type": "Diatonic",
+  "key": "C",
+  "bpm": 80,
+  "lyrics": [
+    {
+      "syllable": "Sum-",
+      "notes": [
+        { "hole": 4, "draw": true, "technique": "bend", "semitones": 1 }
+      ]
+    },
+    {
+      "syllable": "mer-",
+      "notes": [
+        { "hole": 5, "draw": false }
+      ]
+    },
+    {
+      "syllable": "  ",
+      "notes": [
+      ]
+    },
+    {
+      "syllable": "time",
+      "notes": [
+        { "hole": 6, "draw": true, "technique": "overblow" }
+      ]
+    },
+    {
+      "syllable": " ",
+      "notes": []
+    }
+  ]
+}
